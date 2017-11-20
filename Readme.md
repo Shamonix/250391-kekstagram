@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Татьяна Плотникова](https://up.htmlacademy.ru/javascript/11/user/250391).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Нестеренко](https://htmlacademy.ru/profile/nesterenkomacks).
 
 ---
 
